@@ -83,8 +83,8 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone <YOUR_GIT_URL>
-   cd <YOUR_PROJECT_NAME>
+   git clone https://github.com/BigBang001/Stock_Analysis_AI
+   cd Stock_Analysis_AI
    ```
 
 2. **Install dependencies**
@@ -133,9 +133,6 @@ Built with **shadcn/ui** for consistent, accessible components:
 - [ ] Advanced charting with technical indicators
 - [ ] Portfolio tracking and management
 - [ ] Email alerts and notifications
-- [ ] Mobile app companion
-- [ ] Integration with trading platforms
-- [ ] Machine learning prediction models
 
 ## 🤝 Contributing
 
@@ -148,7 +145,7 @@ Built with **shadcn/ui** for consistent, accessible components:
 ## 📱 Live Project
 
 ### Using Netify
-Simply click the link to see the live project
+Simply click the link above to see the live project
 ---
 
 <div align="center">
