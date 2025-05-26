@@ -4,6 +4,19 @@
 
 A sophisticated stock analysis platform powered by a **multi-agent AI architecture** that provides comprehensive insights, real-time data analysis, and intelligent market commentary using natural language queries.
 
+## 📱 Live Project
+
+### Using Netify
+Simply click the link above to see the live project: https://stock-analysis-ai.netlify.app
+---
+
+## 💻 Demo Video
+
+
+https://github.com/user-attachments/assets/c88b7039-11b7-4306-9065-c331eb59af70
+
+---
+
 ## 🚀 Features
 
 ### 🧠 Multi-Agent Architecture
@@ -142,13 +155,4 @@ Built with **shadcn/ui** for consistent, accessible components:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📱 Live Project
-
-### Using Netify
-Simply click the link above to see the live project
 ---
-
-<div align="center">
-  <p>Built with ❤️ using <a href="https://lovable.dev">Lovable</a></p>
-  <p>Powered by AI • Enhanced by Human Creativity</p>
-</div>
